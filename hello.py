@@ -1,1 +1,1 @@
-prrint("This is just for practice")
+prrint("This is not for practice")
